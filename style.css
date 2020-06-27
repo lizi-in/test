@@ -43,7 +43,7 @@ h4 {
 }
 
 p {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .logo {
@@ -129,7 +129,6 @@ Landing page
   text-decoration: none;
   text-transform: uppercase;
   padding: 8px 16px;
-  font-size: 22px;
   background-color: #080808cc;
   border: 1px solid #eeaa00;
   position: absolute;
