@@ -222,6 +222,10 @@ Portfolio
   overflow: hidden;
 }
 
+.content-box {
+  display: inline-block;
+}
+
 .portfolio-items img {
   width: 60%;
   height: 100%;
@@ -344,7 +348,7 @@ About
 Footer
 */
 #footer-section {
-  margin: 0 auto;
+  margin: 160px auto 0 auto;
   padding: 40px;
   background-color: #080808cc;
   box-shadow: 0 0 10px #666;
