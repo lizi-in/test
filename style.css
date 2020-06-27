@@ -117,7 +117,7 @@ Landing page
   color: #ffffffaa;
   text-shadow: 1px 1px #000;
   position: absolute;
-  bottom: 33%;
+  bottom: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
@@ -132,7 +132,7 @@ Landing page
   background-color: #080808cc;
   border: 1px solid #eeaa00;
   position: absolute;
-  bottom: 20%;
+  bottom: 15%;
   left: 50%;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
