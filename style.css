@@ -140,6 +140,7 @@ Landing page
 }
 
 #landing .arrow-down {
+  color: #eeaa00;
   position: absolute;
   bottom: 5%;
   left: 50%;
