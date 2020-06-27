@@ -48,7 +48,7 @@ p {
 
 .logo {
   border-radius: 50%;
-  width: 100px;
+  width: 80px;
   padding: 10px;
 }
 
@@ -128,7 +128,7 @@ Landing page
   color: #eeaa00;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 8px 16px;
+  padding: 4px 8px;
   background-color: #080808cc;
   border: 1px solid #eeaa00;
   position: absolute;
