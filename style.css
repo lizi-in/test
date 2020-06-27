@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-  font-size: 48px;
+  font-size: 42px;
   text-align: center;
   margin: 0 auto;
   padding: 40px 0 40px 0;
@@ -24,14 +24,14 @@ h1 {
 }
 
 h2 {
-  font-size: 42px;
+  font-size: 36px;
   text-align: center;
   margin: 0 auto;
   padding: 40px;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 22px;
   text-transform: uppercase;
   margin: 12px 0;
 }
@@ -94,7 +94,7 @@ Landing page
 
 .landing-wrapper .logo {
   position: absolute;
-  bottom: 55%;
+  bottom: 45%;
   left: 50%;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
@@ -103,7 +103,7 @@ Landing page
 
 .landing-wrapper h1 {
   position: absolute;
-  bottom: 40%;
+  bottom: 35%;
   left: 50%;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
@@ -140,13 +140,16 @@ Landing page
 }
 
 #landing .arrow-down {
-  color: #eeaa00;
   position: absolute;
   bottom: 5%;
   left: 50%;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
+}
+
+#landing .arrow-down a {
+  color: #eeaa00;
 }
 
 /*
